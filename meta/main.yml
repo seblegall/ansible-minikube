@@ -31,5 +31,5 @@ galaxy_info:
     - virtualization
 
 dependencies:
-  - role: andrewrothstein.kubectl
+  - role: kubectl
     version: v1.1.1
